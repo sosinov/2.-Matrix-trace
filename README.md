@@ -1,1 +1,2 @@
-# Matrix-trace
+# Task 2. Matrix trace.
+
