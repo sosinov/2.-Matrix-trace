@@ -1,0 +1,15 @@
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\bin\Debug\net6.0\MatrixTrace.exe
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\bin\Debug\net6.0\MatrixTrace.deps.json
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\bin\Debug\net6.0\MatrixTrace.runtimeconfig.json
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\bin\Debug\net6.0\MatrixTrace.dll
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\bin\Debug\net6.0\MatrixTrace.pdb
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.csproj.AssemblyReference.cache
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.AssemblyInfoInputs.cache
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.AssemblyInfo.cs
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.dll
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\refint\MatrixTrace.dll
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.pdb
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\MatrixTrace.genruntimeconfig.cache
+D:\Dotnet Projects\Foxminded\2. Task. Matrix trace\MatrixTrace\obj\Debug\net6.0\ref\MatrixTrace.dll
